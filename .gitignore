@@ -1,0 +1,51 @@
+# C/C++ build artifacts
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.a
+*.out
+*.pdb
+
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Dev-C++ generated files
+*.layout
+Makefile.win
+
+# Editor and IDE metadata
+.vscode/
+.idea/
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.code-workspace
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+~$*
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
